@@ -1,0 +1,32 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "mani",
+      "email": "mani@gmail.com",
+      "mobile": 89561230,
+      "salary": 45623
+    },
+    {
+      "id": 2,
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "mobile": 895612300,
+      "salary": 56892
+    },
+    {
+      "id": 3,
+      "name": "sundar",
+      "email": "sunadr@gmail.com",
+      "mobile": 87451235,
+      "salary": 89560
+    },
+    {
+      "id": 4,
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "mobile": "7894566510",
+      "salary": "16500"
+    }
+  ]
+}
